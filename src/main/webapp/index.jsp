@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2> Hello Trying Deployment! Webhook SCM Plling ok2! </h2>
+	<h2> Hello Trying Deployment! SCM PIPELINE PLLING </h2>
 </body>
 </html>
