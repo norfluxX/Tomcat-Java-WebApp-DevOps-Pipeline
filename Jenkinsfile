@@ -3,7 +3,7 @@ pipeline {
     options { buildDiscarder(logRotator(numToKeepStr: '1')) }
     tools { 
         maven 'maven3.9.1' 
-        jdk 'jdk11' 
+        jdk 'jdk8' 
     }
     triggers {
         githubPush()
@@ -25,11 +25,5 @@ pipeline {
                 deploy adapters: [tomcat8(credentialsId: 'fa3d0915-a50f-4b85-97b1-62f9bd3074ca', path: '', url: 'http://52.66.155.102:8888')], contextPath: '/', onFailure: false, war: '**/*.war'
             }
         }
-        post {
-        // Clean after build
-        always {
-            cleanWs()
-        }
-    }
  }
 }
