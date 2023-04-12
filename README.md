@@ -16,8 +16,9 @@ The Jenkinsfile is kept on the github as the best practice.
 
 Screenshots:
 
-![image]()
+![pipelinesteps](https://user-images.githubusercontent.com/35907619/231505237-8f26b173-7b8e-4f06-85f8-99b41136fef6.png)
 
-![image]()
+![pipeline](https://user-images.githubusercontent.com/35907619/231505304-4c564fa8-d114-46dd-b260-116be4283f4a.jpg)
+
 
 
