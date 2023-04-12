@@ -7,7 +7,7 @@ As soon as a commit happens on the master branch, webhook will trigger the build
 
 The whole project is carried out on AWS Cloud.
 
-The website can be accessed using the following URL:
+The website can be accessed using the following URL :
 
 ```
 http://<domain/ip>:8888
@@ -24,6 +24,8 @@ Screenshots:
 ---
 2. Web 
 ![pipeline](https://user-images.githubusercontent.com/35907619/231505304-4c564fa8-d114-46dd-b260-116be4283f4a.jpg)
+
+Would love to hear feedback on - bhikesh.khute@outlook.com :heart:
 
 
 
