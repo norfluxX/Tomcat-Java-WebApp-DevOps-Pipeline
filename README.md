@@ -9,7 +9,6 @@ The website can be accessed using the following URL:
 
 ```
 http://<domain/ip>:8888
-
 ```
 I have kept the port number of tomcat as 8888.
 
@@ -17,6 +16,3 @@ The Jenkinsfile is kept on the github as the best practice.
 
 Screenshots:
 
-<Pipeline>
-
-<Deployed site>
