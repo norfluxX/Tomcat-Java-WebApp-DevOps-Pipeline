@@ -16,3 +16,8 @@ The Jenkinsfile is kept on the github as the best practice.
 
 Screenshots:
 
+![image]()
+
+![image]()
+
+
