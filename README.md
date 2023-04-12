@@ -19,7 +19,7 @@ The Jenkinsfile is kept on the github as the best practice.
 Screenshots:
 
 1. Jenkins Workspace
-![pipelinesteps](https://user-images.githubusercontent.com/35907619/231507298-9d2e6597-d2b4-4575-84d0-85602eddddf6.png)
+![pipelinesteps](https://user-images.githubusercontent.com/35907619/231507467-72494fa0-a886-4eec-a413-4476a45f894e.png)
 
 ---
 2. Web 
