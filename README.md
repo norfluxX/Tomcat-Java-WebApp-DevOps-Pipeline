@@ -23,8 +23,7 @@ Screenshots:
 
 ---
 2. Sonarube Results
-![sonarqube]([Sonar_new](https://github.com/bhikeshkhute/java-maven-pipeline/assets/35907619/12a26bc9-ec93-435b-aa72-97206437ed1c)
-)
+![sonarqube](https://github.com/bhikeshkhute/java-maven-pipeline/assets/35907619/12a26bc9-ec93-435b-aa72-97206437ed1c.png)
 
 ---
 3. Web 
@@ -32,8 +31,7 @@ Screenshots:
 
 ---
 4. Whatsapp Notification
-![pipeline]([Whatsapp_Notif](https://github.com/bhikeshkhute/java-maven-pipeline/assets/35907619/6e1d36ce-b64b-4537-8f1b-9ad0891084ee)
-)
+![whatsapp](https://github.com/bhikeshkhute/java-maven-pipeline/assets/35907619/6e1d36ce-b64b-4537-8f1b-9ad0891084ee.jpg)
 
 Would love to hear feedback on - bhikesh.khute@outlook.com :heart:
 
