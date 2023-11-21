@@ -6,14 +6,26 @@ As soon as a commit happens on the master branch, webhook will trigger the build
 
 The whole project is carried out on AWS Cloud.
 
+Prerequisite:
+1. Java 17 & Apache Tomcat needs to be installed on the server before Jenkins installation.
+2. JDK8 & Maven 3.9 need to be installed in the tools section of Jenkins as this project is built using jdk8.
+3. "Deploy to Container" plugin also needs to be installed. Note - Not installed by default.
+
+Apache Tomcat configuration:
+1. Go to the tomcat configuration directory, find server.xml, and change the port number from 8443 to your desired port number.
+2. Add tomcat-user in the conf/tomcat-users.xml and restart tomcat. You can access the below URL with your new credentials:
+```
+http://<domain/ip>:8081/manager
+```
+
 The website can be accessed using the following URL :
 
 ```
 http://<domain/ip>:8081
 ```
-I have kept the port number of tomcat as 8081.
+I have kept the port number of Tomcat as 8081.
 
-The Jenkinsfile is kept on the github as the best practice. 
+The Jenkinsfile is kept on GitHub as the best practice. 
 
 Screenshots:
 
