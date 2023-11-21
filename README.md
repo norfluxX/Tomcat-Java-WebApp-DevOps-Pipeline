@@ -31,7 +31,7 @@ Screenshots:
 
 ---
 4. Whatsapp Notification
-![whatsapp](https://github.com/bhikeshkhute/java-maven-pipeline/assets/35907619/6e1d36ce-b64b-4537-8f1b-9ad0891084ee.jpg)
+![whatsapp](https://github.com/bhikeshkhute/java-maven-pipeline/assets/35907619/d3546a0d-b1fa-4f4e-a4c5-f6c8c4cc6536.jpg)
 
 Would love to hear feedback on - bhikesh.khute@outlook.com :heart:
 
