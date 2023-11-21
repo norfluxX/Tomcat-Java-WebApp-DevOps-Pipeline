@@ -1,6 +1,5 @@
 
-# Dynamic Web Project developed in Java, packaged using Maven, QA using SonarQube and deployed on Apache Tomcat using Jenkins pipeline along with webhooks.
-
+# Dynamic Web Project developed in Java, packaged using Maven, QA using SonarQube and deployed on Apache Tomcat using Jenkins pipeline along with notifications.
 Eclipse IDE is used to develop the project and the same was converted into maven and was hosted on apache tomcat server with the help of Jenkins tool.
 
 As soon as a commit happens on the master branch, webhook will trigger the build to create new package/artifact and the project will be deployed on apache tomcat in realtime.
