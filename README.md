@@ -19,8 +19,7 @@ The Jenkinsfile is kept on the github as the best practice.
 Screenshots:
 
 1. Jenkins Workspace
-![pipelinesteps]([Java_Sonar_Whatsapp](https://github.com/bhikeshkhute/java-maven-pipeline/assets/35907619/415fb0e3-8749-449d-8c46-59deeecf49f5.png)
-)
+![pipelinesteps](https://github.com/bhikeshkhute/java-maven-pipeline/assets/35907619/415fb0e3-8749-449d-8c46-59deeecf49f5.png)
 
 ---
 2. Sonarube Results
