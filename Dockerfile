@@ -1,2 +1,3 @@
 FROM bhikeshk7/tomcatalpine:latest
-COPY /var/lib/jenkins/workspace/Java_Docker/target/test.txt /opt/tomcat/webapps/test.txt
+COPY WebDeploy-0.0.1-SNAPSHOT.war /opt/tomcat/webapps/ROOT.war
+CMD ["/opt/tomcat/bin/catalina.sh","run"]
