@@ -66,7 +66,7 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Jenkins CI/CD Pipeline</h2>
-                <p class="animate__animated animate__fadeInUp">This is a project by Bhikesh. I have used Eclipse IDE to create a dynamic web project. Added this content in the JSP file and converted the same into maven and created the war package with maven and deployed on Tomcat 8.5 Server using Jenkins Pipeline. </p>
+                <p class="animate__animated animate__fadeInUp">This project is created by Bhikesh. I have used Eclipse IDE to create a dynamic web project. Added this content in the JSP file and converted the same into maven and created the war package with maven and deployed on Tomcat 9 Server using Jenkins Pipeline. </p>
               </div>
             </div>
           </div>
